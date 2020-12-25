@@ -1,0 +1,17 @@
+asgiref==3.3.1
+
+Django==3.1.4
+gunicorn==20.0.4
+gcloud==0.18.3
+googleapis-common-protos==1.52.0
+
+Jinja2==2.11.2
+joblib==0.17.0
+jws==0.1.3
+Pyrebase==3.0.27
+Pyrebase4==4.4.3
+
+requests==2.25.1
+requests-toolbelt==0.9.1
+urllib3==1.25.8
+whitenoise==5.2.0
